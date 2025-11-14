@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Word Guesser",
+  "description": "A simple word guessing game where an AI provides clues. Choose a category, and the AI will think of a word. Ask for clues and try to guess the word before you run out of attempts!",
+  "requestFramePermissions": []
+}
